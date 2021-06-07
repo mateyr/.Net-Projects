@@ -1,0 +1,11 @@
+F:\Semana pasada\POJO\POOApps\bin\Debug\POOApps.exe.config
+F:\Semana pasada\POJO\POOApps\bin\Debug\POOApps.exe
+F:\Semana pasada\POJO\POOApps\bin\Debug\POOApps.pdb
+F:\Semana pasada\POJO\POOApps\obj\Debug\POOApps.csprojAssemblyReference.cache
+F:\Semana pasada\POJO\POOApps\obj\Debug\POOApps.Form1.resources
+F:\Semana pasada\POJO\POOApps\obj\Debug\POOApps.Properties.Resources.resources
+F:\Semana pasada\POJO\POOApps\obj\Debug\POOApps.csproj.GenerateResource.cache
+F:\Semana pasada\POJO\POOApps\obj\Debug\POOApps.csproj.CoreCompileInputs.cache
+F:\Semana pasada\POJO\POOApps\obj\Debug\POOApps.exe
+F:\Semana pasada\POJO\POOApps\obj\Debug\POOApps.pdb
+F:\Semana pasada\POJO\POOApps\obj\Debug\POOApps.FrmMdi.resources
