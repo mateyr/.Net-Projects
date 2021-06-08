@@ -15,7 +15,7 @@ namespace POOApps
 {
     public partial class Form1 : Form
     {
-        public ActivoFijoModel ActivoFijoModel { get; set; }
+        public ActivoFijoModel ActivoFijoModel { get; set; }  // Property
 
         public Form1()
         {

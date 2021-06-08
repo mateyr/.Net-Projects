@@ -8,7 +8,7 @@ namespace POOApps.enums
 {
     public enum TipoActivo
     {
-        EDIFICIO = 20,
+        EDIFICIO = 20,    
         MAQUINARIA = 7,
         VEHICULO = 5,
         MOBILIARIO = 2,

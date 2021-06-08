@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\bin\Debug\netcoreapp3.1\Clase_Practica.exe
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\bin\Debug\netcoreapp3.1\Clase_Practica.deps.json
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\bin\Debug\netcoreapp3.1\Clase_Practica.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\bin\Debug\netcoreapp3.1\Clase_Practica.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\bin\Debug\netcoreapp3.1\Clase_Practica.dll
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\bin\Debug\netcoreapp3.1\Clase_Practica.pdb
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.Form1.resources
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.dll
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.pdb
+C:\Users\LENOVO\source\repos\Clase_Practica\Clase_Practica\obj\Debug\netcoreapp3.1\Clase_Practica.genruntimeconfig.cache

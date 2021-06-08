@@ -38,44 +38,50 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(152, 9);
+            this.label1.Location = new System.Drawing.Point(203, 11);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(128, 13);
+            this.label1.Size = new System.Drawing.Size(168, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "Metodo de depreciacion: ";
             // 
             // cmbMetodos
             // 
             this.cmbMetodos.FormattingEnabled = true;
-            this.cmbMetodos.Location = new System.Drawing.Point(286, 6);
+            this.cmbMetodos.Location = new System.Drawing.Point(381, 7);
+            this.cmbMetodos.Margin = new System.Windows.Forms.Padding(4);
             this.cmbMetodos.Name = "cmbMetodos";
-            this.cmbMetodos.Size = new System.Drawing.Size(185, 21);
+            this.cmbMetodos.Size = new System.Drawing.Size(245, 24);
             this.cmbMetodos.TabIndex = 1;
             // 
             // txtBuscador
             // 
-            this.txtBuscador.Location = new System.Drawing.Point(12, 33);
+            this.txtBuscador.Location = new System.Drawing.Point(16, 41);
+            this.txtBuscador.Margin = new System.Windows.Forms.Padding(4);
             this.txtBuscador.Name = "txtBuscador";
-            this.txtBuscador.Size = new System.Drawing.Size(547, 20);
+            this.txtBuscador.Size = new System.Drawing.Size(728, 22);
             this.txtBuscador.TabIndex = 2;
             // 
             // dgvDepreciacion
             // 
             this.dgvDepreciacion.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDepreciacion.Location = new System.Drawing.Point(12, 59);
+            this.dgvDepreciacion.Location = new System.Drawing.Point(16, 73);
+            this.dgvDepreciacion.Margin = new System.Windows.Forms.Padding(4);
             this.dgvDepreciacion.Name = "dgvDepreciacion";
-            this.dgvDepreciacion.Size = new System.Drawing.Size(547, 379);
+            this.dgvDepreciacion.RowHeadersWidth = 51;
+            this.dgvDepreciacion.Size = new System.Drawing.Size(729, 466);
             this.dgvDepreciacion.TabIndex = 3;
             // 
             // FrmDepreciacion
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(571, 450);
+            this.ClientSize = new System.Drawing.Size(761, 554);
             this.Controls.Add(this.dgvDepreciacion);
             this.Controls.Add(this.txtBuscador);
             this.Controls.Add(this.cmbMetodos);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmDepreciacion";
             this.Text = "FrmDepreciacion";
             this.Load += new System.EventHandler(this.FrmDepreciacion_Load);

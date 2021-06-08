@@ -82,7 +82,9 @@ namespace POOApps.model
 
         public int GetGreaterVidaUtil()
         {
-            return (int) activosFijos.OrderBy(a => a.TipoActivo).Reverse().FirstOrDefault().TipoActivo;
+            //return (int) activosFijos.OrderBy(a => a.TipoActivo).Reverse().FirstOrDefault().TipoActivo;  //Esto porque se ha puesto los elementos del Enum en orden Desendente
+            //int[] temp = new int[activosFijos.Length];
+            return 5;
         }
     }
 }

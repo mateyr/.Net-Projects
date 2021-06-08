@@ -9,7 +9,7 @@ namespace POOApps.poco
 {
     public class ActivoFijo
     {
-        public string Codigo { get; set; }
+        public string Codigo { get; set; }   
         public string Nombre { get; set; }
         public decimal Valor { get; set; }
         public decimal ValorResidual { get; set; }

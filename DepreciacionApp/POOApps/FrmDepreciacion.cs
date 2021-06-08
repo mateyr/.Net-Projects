@@ -16,10 +16,13 @@ namespace POOApps
 {
     public partial class FrmDepreciacion : Form
     {
-        public ActivoFijoModel ActivoFijoModel { get; set; }
+        public ActivoFijoModel ActivoFijoModel;
         public FrmDepreciacion()
         {
+            
             InitializeComponent();
+            LoadDepreciaciones();
+         
         }
 
         private void FrmDepreciacion_Load(object sender, EventArgs e)
@@ -42,7 +45,7 @@ namespace POOApps
                 dgvDepreciacion.Columns.Add($"Columns{i}", $"{i}");
             }
 
-            IDpreciacion depreciacion = new DepreciacionFactory().CreateInstance((MetodoDepreciacion) 
+            IDpreciacion depreciacion = new DepreciacionFactory().CreateInstance((MetodoDepreciacion)
                 Enum.GetValues(typeof(MetodoDepreciacion)).GetValue(cmbMetodos.SelectedIndex));
 
             foreach(ActivoFijo af in ActivoFijoModel.GetAll())
@@ -62,5 +65,7 @@ namespace POOApps
                 }
             }
         }
+
+      
     }
 }

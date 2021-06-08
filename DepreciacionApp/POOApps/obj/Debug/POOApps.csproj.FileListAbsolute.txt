@@ -33,3 +33,15 @@ C:\Users\LENOVO\source\repos\Orlando\POOApps\POOApps\obj\Debug\POOApps.csproj.Ge
 C:\Users\LENOVO\source\repos\Orlando\POOApps\POOApps\obj\Debug\POOApps.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\source\repos\Orlando\POOApps\POOApps\obj\Debug\POOApps.exe
 C:\Users\LENOVO\source\repos\Orlando\POOApps\POOApps\obj\Debug\POOApps.pdb
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\bin\Debug\POOApps.exe.config
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\bin\Debug\POOApps.exe
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\bin\Debug\POOApps.pdb
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.Form1.resources
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.FrmDepreciacion.resources
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.FrmMdi.resources
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.exe
+C:\Users\LENOVO\source\repos\.Net-Projects\DepreciacionApp\POOApps\obj\Debug\POOApps.pdb
