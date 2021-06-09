@@ -18,7 +18,7 @@ namespace Clase_Practica1.model
 
         public void AddElement(Empleado empleado)
         {
-            if (empleado == null)
+            if (empleados == null)
             {
                 empleados = new Empleado[1];
                 empleados[0] = empleado;
@@ -78,6 +78,16 @@ namespace Clase_Practica1.model
         public Empleado[] GetAll()
         {
             return empleados;
+        }
+
+        public Empleado getElement(int index)
+        {
+            return empleados[index];
+        }
+
+        public void Update(Empleado empleado, int index)
+        {
+            empleados[index] = empleado;
         }
 
     }

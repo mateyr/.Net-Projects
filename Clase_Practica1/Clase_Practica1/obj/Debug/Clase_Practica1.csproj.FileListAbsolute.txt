@@ -8,3 +8,13 @@ C:\Users\Sistemas-07\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\
 C:\Users\Sistemas-07\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.csproj.CoreCompileInputs.cache
 C:\Users\Sistemas-07\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.exe
 C:\Users\Sistemas-07\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.pdb
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\bin\Debug\Clase_Practica1.exe.config
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\bin\Debug\Clase_Practica1.exe
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\bin\Debug\Clase_Practica1.pdb
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.EmpleadoView.resources
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.exe
+C:\Users\LENOVO\source\repos\.Net-Projects\Clase_Practica1\Clase_Practica1\obj\Debug\Clase_Practica1.pdb
